@@ -1,16 +1,11 @@
 # flutter_world_news
 
-A new Flutter application.
+This application was developed using flutter and it uses Api from https://newsapi.org/ to get the headlines of different news websites
 
-## Getting Started
+### Images are attaced below
 
-This project is a starting point for a Flutter application.
+![screenshot_1543937552](https://user-images.githubusercontent.com/24871915/49469742-9f400580-f808-11e8-8a10-45e038b3ab8e.png)
+![screenshot_1543937845](https://user-images.githubusercontent.com/24871915/49469744-9fd89c00-f808-11e8-86e3-b876918566f0.png)
+![screenshot_1543937859](https://user-images.githubusercontent.com/24871915/49469746-9fd89c00-f808-11e8-8adc-2b74963f7ff9.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
